@@ -22,5 +22,5 @@ const part2 = data.reduce((total, curr, i, list) => {
   return total;
 }, 0);
 
-console.log('part 1: ', part1);
-console.log('part 2: ', part2);
+console.log('part 1:', part1);
+console.log('part 2:', part2);
